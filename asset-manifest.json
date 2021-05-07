@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/angrydogs/static/css/main.fc980c3c.chunk.css",
-    "main.js": "/angrydogs/static/js/main.92e80675.chunk.js",
-    "main.js.map": "/angrydogs/static/js/main.92e80675.chunk.js.map",
-    "runtime-main.js": "/angrydogs/static/js/runtime-main.3ff50745.js",
-    "runtime-main.js.map": "/angrydogs/static/js/runtime-main.3ff50745.js.map",
-    "static/js/2.81cfface.chunk.js": "/angrydogs/static/js/2.81cfface.chunk.js",
-    "static/js/2.81cfface.chunk.js.map": "/angrydogs/static/js/2.81cfface.chunk.js.map",
-    "static/js/3.27eb174a.chunk.js": "/angrydogs/static/js/3.27eb174a.chunk.js",
-    "static/js/3.27eb174a.chunk.js.map": "/angrydogs/static/js/3.27eb174a.chunk.js.map",
+    "main.css": "/angrydogs/static/css/main.49e6bece.chunk.css",
+    "main.js": "/angrydogs/static/js/main.259c7e3e.chunk.js",
+    "main.js.map": "/angrydogs/static/js/main.259c7e3e.chunk.js.map",
+    "runtime-main.js": "/angrydogs/static/js/runtime-main.448066e6.js",
+    "runtime-main.js.map": "/angrydogs/static/js/runtime-main.448066e6.js.map",
+    "static/js/2.b8c124c7.chunk.js": "/angrydogs/static/js/2.b8c124c7.chunk.js",
+    "static/js/2.b8c124c7.chunk.js.map": "/angrydogs/static/js/2.b8c124c7.chunk.js.map",
+    "static/js/3.5840f858.chunk.js": "/angrydogs/static/js/3.5840f858.chunk.js",
+    "static/js/3.5840f858.chunk.js.map": "/angrydogs/static/js/3.5840f858.chunk.js.map",
     "index.html": "/angrydogs/index.html",
-    "static/css/main.fc980c3c.chunk.css.map": "/angrydogs/static/css/main.fc980c3c.chunk.css.map",
-    "static/js/2.81cfface.chunk.js.LICENSE.txt": "/angrydogs/static/js/2.81cfface.chunk.js.LICENSE.txt"
+    "static/css/main.49e6bece.chunk.css.map": "/angrydogs/static/css/main.49e6bece.chunk.css.map",
+    "static/js/2.b8c124c7.chunk.js.LICENSE.txt": "/angrydogs/static/js/2.b8c124c7.chunk.js.LICENSE.txt",
+    "static/media/Angry1-4.7d77fe70.png": "/angrydogs/static/media/Angry1-4.7d77fe70.png",
+    "static/media/Angry2-4.ef0eaa7a.png": "/angrydogs/static/media/Angry2-4.ef0eaa7a.png",
+    "static/media/Angry4-4.20326eab.png": "/angrydogs/static/media/Angry4-4.20326eab.png",
+    "static/media/AngryDoge-Tokenomics2-2.522b5230.png": "/angrydogs/static/media/AngryDoge-Tokenomics2-2.522b5230.png",
+    "static/media/Logo2-3.b4bfda0a.png": "/angrydogs/static/media/Logo2-3.b4bfda0a.png",
+    "static/media/RoadMap-4-1024x1024.0835b63b.png": "/angrydogs/static/media/RoadMap-4-1024x1024.0835b63b.png",
+    "static/media/angry3-4.89b6ffd8.png": "/angrydogs/static/media/angry3-4.89b6ffd8.png",
+    "static/media/wallpaper-3.09b50680.png": "/angrydogs/static/media/wallpaper-3.09b50680.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ff50745.js",
-    "static/js/2.81cfface.chunk.js",
-    "static/css/main.fc980c3c.chunk.css",
-    "static/js/main.92e80675.chunk.js"
+    "static/js/runtime-main.448066e6.js",
+    "static/js/2.b8c124c7.chunk.js",
+    "static/css/main.49e6bece.chunk.css",
+    "static/js/main.259c7e3e.chunk.js"
   ]
 }
