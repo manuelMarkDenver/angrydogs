@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/angrydogs/static/css/main.fc980c3c.chunk.css",
+    "main.js": "/angrydogs/static/js/main.92e80675.chunk.js",
+    "main.js.map": "/angrydogs/static/js/main.92e80675.chunk.js.map",
+    "runtime-main.js": "/angrydogs/static/js/runtime-main.3ff50745.js",
+    "runtime-main.js.map": "/angrydogs/static/js/runtime-main.3ff50745.js.map",
+    "static/js/2.81cfface.chunk.js": "/angrydogs/static/js/2.81cfface.chunk.js",
+    "static/js/2.81cfface.chunk.js.map": "/angrydogs/static/js/2.81cfface.chunk.js.map",
+    "static/js/3.27eb174a.chunk.js": "/angrydogs/static/js/3.27eb174a.chunk.js",
+    "static/js/3.27eb174a.chunk.js.map": "/angrydogs/static/js/3.27eb174a.chunk.js.map",
+    "index.html": "/angrydogs/index.html",
+    "static/css/main.fc980c3c.chunk.css.map": "/angrydogs/static/css/main.fc980c3c.chunk.css.map",
+    "static/js/2.81cfface.chunk.js.LICENSE.txt": "/angrydogs/static/js/2.81cfface.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff50745.js",
+    "static/js/2.81cfface.chunk.js",
+    "static/css/main.fc980c3c.chunk.css",
+    "static/js/main.92e80675.chunk.js"
+  ]
+}
